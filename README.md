@@ -6,6 +6,10 @@ This pipeline was developed and optimized for the following environment:
 Environment: Conda
 Runtime: Python 3.13.11
 
+### Dashboard Interface
+![Landing Page](assets/landing_page.png)
+![Prediction Results](assets/prediction_results.png)
+
 # Phase 1: Dataset Acquisition
 The dataset consists of 908 audio files categorized into 15 distinct animal classes. Raw audio files are stored in the dataset/ directory. Due to the biological rarity of certain species (such as wolves), the dataset contains severe class imbalances, which necessitated strict stratified splitting and algorithmic compensation in later phases.
 
