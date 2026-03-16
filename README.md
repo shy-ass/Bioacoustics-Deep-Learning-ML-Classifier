@@ -33,7 +33,7 @@ To run this application locally on your machine:
 Download this zip file from release:
 <div align="center">
 
-[**🚀 Download Full Project (All-in-One Zip)**]([https://github.com/shy-ass/Bioacoustics-Deep-Learning-ML-Classifier/releases/tag/v1](https://github.com/shy-ass/Bioacoustics-Deep-Learning-ML-Classifier/releases/download/v1/bioacoustics_project.zip))
+[**🚀 Download Full Project (All-in-One Zip)**](https://github.com/shy-ass/Bioacoustics-Deep-Learning-ML-Classifier/releases/tag/v1](https://github.com/shy-ass/Bioacoustics-Deep-Learning-ML-Classifier/releases/download/v1/bioacoustics_project.zip)
 
 </div>
 
