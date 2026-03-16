@@ -1,0 +1,13 @@
+torch
+torchaudio
+torchvision
+numpy
+pandas
+scikit-learn
+librosa
+soundfile
+joblib
+xgboost
+lightgbm
+streamlit
+tqdm
