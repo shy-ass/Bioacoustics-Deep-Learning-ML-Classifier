@@ -37,6 +37,7 @@ Download this zip file from release:
 
 </div>
 
+Unzip the file.
 Install the exact library dependencies listed in requirements.txt.
 Open your terminal, navigate to the root directory of the project, and execute the following command:
 
