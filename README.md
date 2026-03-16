@@ -30,7 +30,13 @@ Both the ML and DL models process the audio simultaneously to provide a comparat
 
 # Execution Instructions
 To run this application locally on your machine:
-Clone this repository.
+Download this zip file from release:
+<div align="center">
+
+[**🚀 Download Full Project (All-in-One Zip)**](https://github.com/shy-ass/Bioacoustics-Deep-Learning-ML-Classifier/releases/tag/v1)
+
+</div>
+
 Install the exact library dependencies listed in requirements.txt.
 Open your terminal, navigate to the root directory of the project, and execute the following command:
 
